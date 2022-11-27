@@ -6,16 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-- <p>🔭 I’m currently working on **multiple projects**</p>
-- 🌱 I’m currently learning **React Native.**
-- 👯 I’m looking to collaborate on **any kind of project.**
-- 🤝 I’m looking for help with **networking**
-- 👨‍💻 All of my projects are available at [www.lindseyk.dev/](www.lindseyk.dev/)
-- 💬 Ask me about **anything you'd like.**
-- 📫 How to reach me **admin@lindseyk.dev**
 
-
-Think programmers have an easy life? Try building and designing an app only to have the customer say: “oh, just a website is fine!”
+Wanna start SQL from scratch. Try this: 
 
 
 
