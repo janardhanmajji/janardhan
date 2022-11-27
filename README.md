@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-- 🔭 I’m currently working on **multiple projects**
+- <p>🔭 I’m currently working on **multiple projects**</p>
 - 🌱 I’m currently learning **React Native.**
 - 👯 I’m looking to collaborate on **any kind of project.**
 - 🤝 I’m looking for help with **networking**
