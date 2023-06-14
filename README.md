@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janardhan</h1>
-<h3 align="center">Iam a Btech student of 2nd year studying in KL University</h3>
+<h3 align="center">Iam a Btech student of 3rd year studying in KL University</h3>
 
 ![](https://komarev.com/ghpvc/?username=janardhanmajji&color=dc143c)
 
